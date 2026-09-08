@@ -1,0 +1,8 @@
+pandas
+numpy
+pydantic
+pyyaml
+fastapi
+uvicorn
+faiss-cpu
+httpx
