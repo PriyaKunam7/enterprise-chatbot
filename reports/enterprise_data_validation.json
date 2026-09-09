@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-09-09T03:54:20.538414+00:00",
+  "cmdb": {
+    "row_count": 10000,
+    "unique_applications": [
+      "analytics-pipeline",
+      "api-gateway",
+      "auth-service",
+      "billing-engine",
+      "customer-portal",
+      "fraud-detection",
+      "inventory-service",
+      "notification-service",
+      "order-service",
+      "payment-gateway",
+      "recommendation-engine",
+      "reporting-dashboard",
+      "search-service",
+      "shipping-tracker",
+      "warehouse-management"
+    ],
+    "issues": [],
+    "critical_violations": 0
+  },
+  "incidents": {
+    "row_count": 2000,
+    "issues": [],
+    "critical_violations": 0
+  },
+  "knowledge_docs": {
+    "doc_count": 15,
+    "issues": []
+  },
+  "total_critical_violations": 0,
+  "passed": true
+}
